@@ -1,0 +1,19 @@
+{
+  "name": "sujalbackend",
+  "version": "1.0.0",
+  "description": "an app to test for deployment",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "sujal chaudhary",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
